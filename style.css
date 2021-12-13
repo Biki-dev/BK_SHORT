@@ -1,0 +1,14 @@
+.kk {
+  position: static;
+  background: #ffcb00;
+}
+.jj {
+  position: relative;
+  left: 20vh;
+}
+#url {
+  margin-bottom: 2px;
+}
+#oj {
+  text-align: center;
+}
